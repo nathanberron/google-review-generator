@@ -10,14 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wztech0192/google-review-generator.git"
+    "url": "git+https://github.com/nathanberron/google-review-generator.git"
   },
-  "author": "Wei Zheng",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wztech0192/google-review-generator/issues"
-  },
-  "homepage": "https://github.com/wztech0192/google-review-generator#readme",
+  "homepage": "https://github.com/nathanberron/google-review-generator#readme",
   "dependencies": {
     "cypress": "^8.6.0",
     "faker": "^5.5.3"
